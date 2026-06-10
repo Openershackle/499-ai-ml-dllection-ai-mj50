@@ -1,4 +1,4 @@
-# 
+# Oficial 499 AI/ML/DL Projects Collection modelos. Com IA de borda e redes neurais — otimizado para máximo desempenho.
 
 
 
